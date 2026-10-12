@@ -7,7 +7,6 @@ double SquareArea(double side) {
 
 // Вычисляет периметр квадрата.
 double SquarePerimeter(double side) {
-    // Пример вызова: SquareArea(4.0) возвращает 16.0
+    // Пример вызова: SquarePerimeter(4.0) возвращает 16.0
     return 4 * side;
 }
-
